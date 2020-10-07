@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+#btnSearch {
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    padding: 10px;
+    border-radius: 10px 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 7vh;
+}
+
+.jumbotron {
+    background-image: url("./assets/download.jpeg");
+    background-size: auto;
+    height: 30vh;
+}
+
+.display-4{
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.lead {
+    color: white;
+    margin-top: 25vh;
+}
